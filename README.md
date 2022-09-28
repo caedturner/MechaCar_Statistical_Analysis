@@ -49,5 +49,5 @@ What makes a car stand out from a consumers point of view?
   - We will use the average G-force experianced when the MechaCar has an accident v. the average G-force expericianced from other competition cars.
   - The MechaCar has better accident protection.
   - The MechaCar does not have better accident protection. 
-  -
+
 
